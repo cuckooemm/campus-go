@@ -9,3 +9,5 @@
 
 
 flutter 客户端链接 https://github.com/ming0101/campus-flutter
+
+小程序版链接 https://github.com/ming0101/campus-weapp
